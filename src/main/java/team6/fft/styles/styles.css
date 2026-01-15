@@ -1,0 +1,11 @@
+.label{
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+}
+#upload-pane{
+	-fx-border-width: 1px;
+	-fx-border-style: solid;
+	-fx-border-color: darkgrey;
+	-fx-border-radius: 5px;
+	-fx-padding: 10px;
+}
